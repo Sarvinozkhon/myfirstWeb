@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("./accountant-office.jpg");
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: initial;
+}
+
+header {
+  background-color: rgb(255, 225, 199);
+}
+.container {
+  margin: 0 auto;
+  width: 90%;
+}
+.menu {
+  float: right;
+
+  margin-top: -35px;
+}
+
+li {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 0 5px;
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(88, 6, 71);
+  background-color: yellow;
+  border-radius: 30px;
+  padding: 5px;
+}
+a:hover {
+  background-color: rgb(236, 30, 150);
+  color: white;
+}
+
+.main_container {
+  width: 40%;
+  margin: 8% 65% 30% 5%;
+}
+h1 {
+  font-size: 75px;
+  color: rgb(236, 2, 139);
+}
+p {
+  color: rgb(5, 5, 104);
+}
+button {
+  color: rgb(255, 0, 179);
+  background-color: rgb(252, 255, 50);
+  background-size: 40px;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+  border-style: double;
+  border-radius: 30px;
+}
+button:hover {
+  background-color: rgb(236, 30, 150);
+  color: black;
+}
+
+footer {
+  background-color: blueviolet;
+  margin: -70px 0;
+  height: 25%;
+  background: linear-gradient(270deg, rgb(0, 98, 226), blueviolet);
+}
+.foot {
+  color: white;
+}
+.aa {
+  margin: 20px 10px;
+  text-decoration: none;
+  color: rgb(88, 6, 71);
+
+  border-radius: 30px;
+  padding: 5px;
+}
+.active {
+  border: 3px solid rgb(221, 26, 140);
+}
+
+.about_body {
+  background-image: url("./boat.jpg");
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: initial;
+}
+.footer_2 {
+  margin-top: 20%;
+}
+.container_2 {
+  width: 40%;
+  margin-left: 45%;
+  margin-top: -30%;
+
+  float: right;
+}
+.cont_main {
+  margin-top: 10;
+  width: 100%;
+  height: 80%;
+}
+
+.aa {
+  margin-top: 8%;
+  margin-left: 5%;
+}
+.logo {
+  width: 30%;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(156, 7, 124);
+}
+.logo_brand {
+  float: left;
+  padding: 30px;
+  padding-right: 10px;
+}
+
+.gradient2 {
+  background: linear-gradient(90deg, rgb(255, 225, 199), rgb(248, 34, 152));
+}
+.head_about {
+  background: linear-gradient(45deg, rgb(81, 253, 152), rgb(2, 160, 2));
+}
+/* rgb(22, 210, 223), rgb(24, 3, 141) */
+.aboutme {
+  color: blue;
+  background-color: rgb(131, 185, 255, 0.9);
+  border-radius: 20px;
+  margin-left: -20%;
+  padding: 20px;
+}
+.header_about {
+  color: rgb(42, 17, 184);
+}
+.but_2 {
+  margin-left: -20%;
+}
+.foot_contact {
+  margin-top: 13%;
+}
+.contact_body {
+  background-image: url("./img/4942217.jpg");
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: initial;
+}
+form {
+  margin-top: 30px;
+}
+
+.contact_reg {
+  margin-left: 10%;
+  margin-top: 20px;
+}
+.portfoilo_body {
+  background-image: url("./img/top-view-beautiful-roses-bouquet-with-empty-card.jpg");
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: initial;
+}
+.footport {
+  margin-top: 25%;
+}
+.gradient4 {
+  background: linear-gradient(360deg, red, pink);
+}
+.portfolio_name {
+  width: 40%;
+}
+
+.portfolioh1 {
+  color: red;
+  margin-top: 90px;
+  margin-left: 200px;
+}
+.portfolio_text {
+  width: 40%;
+  margin-top: 100px;
+  margin-left: 120px;
+  color: crimson;
+}
